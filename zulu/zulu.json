@@ -92,5 +92,17 @@
         "heap_size": "normal",
         "checksum_link": "https://raw.githubusercontent.com/halcyon/asdf-java/master/zulu/zulu7.29.0.5-ca-jdk7.0.222-linux_x64.tar.gz.sha256.txt"
       }]
+  },
+  {
+    "release_name": "azul-zulu-6u119",
+    "binaries": [
+      {
+        "os": "linux",
+        "architecture": "x64",
+        "openjdk_impl": "hotspot",
+        "binary_link": "https://cdn.azul.com/zulu/bin/zulu6.22.0.3-jdk6.0.119-linux_x64.tar.gz",
+        "heap_size": "normal",
+        "checksum_link": "https://raw.githubusercontent.com/flaprano/asdf-java/master/zulu/zulu6.22.0.3-jdk6.0.119-linux_x64.tar.gz.sha256.txt"
+      }]
   }
 ]
